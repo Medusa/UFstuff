@@ -1,0 +1,10 @@
+## Title: UFstuff
+## Interface: 50100
+## Notes: a collection of few scripts to improve a little bit the default unit frames
+## Author: Medusa
+## Credits: Thaya
+## Thanks: Thaya
+## Version: 1.0.0
+
+Config.lua
+Core.lua

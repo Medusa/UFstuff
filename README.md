@@ -1,1 +1,1 @@
-UfStuff is discontinued.
+UFstuff is discontinued.

@@ -1,3 +1,1 @@
-UFstuff
-This AddOn is not longer supported.
-=======
+UfStuff is discontinued.
